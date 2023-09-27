@@ -1,5 +1,4 @@
 import React from 'react';
-import { useLoaderData } from 'react-router-dom';
 import Cards from './Cards';
 
 const DonationCategory = ({categories}) => {

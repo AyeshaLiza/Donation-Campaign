@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import swal from 'sweetalert';
-import Donation from '../Home/Donation/Donation';
 
 
 const DonationDetail = () => {

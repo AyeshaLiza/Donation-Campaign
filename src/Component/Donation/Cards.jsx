@@ -1,6 +1,5 @@
 import React from 'react';
-import Donation from '../../Pages/Home/Donation/Donation';
-import DonationDetail from '../../Pages/DonationDetail/donationDetail';
+
 import { Link } from 'react-router-dom';
 
 const Cards = ({category}) => {

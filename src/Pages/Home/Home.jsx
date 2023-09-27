@@ -11,7 +11,7 @@ const Home = () => {
     <Banner></Banner>
     </div>
     <DonationCategory categories={categories}></DonationCategory>
-   
+
   </div>
  );
 };
