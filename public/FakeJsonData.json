@@ -1,0 +1,155 @@
+[
+ {
+  "id": 1,
+   "Picture": "https://i.ibb.co/KVF1tWn/education.jpg",
+   "Title": "Good education",
+   "Category": "Education",
+   "Backgrounds": {
+   "Category_bg": "#FF444A50",
+   "Card_bg": "#FF444A26",
+   "Text_and_button_color": "#FF444A"
+   },
+   "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+   "Price": "$50"
+ },
+ {  
+  "id": 2,
+   "Picture": "https://i.ibb.co/N2ftYrP/Rectangle-4287-2.png",
+   "Title": "Better Food for Everyone",
+   "Category": "Food",
+   "Backgrounds": {
+   "Category_bg": "#F8714750",
+   "Card_bg": "#F8714726",
+   "Text_and_button_color": "#F87147"
+   },
+   "Description": "Contribute to providing nutritious meals to those in need, fighting hunger one meal at a time. Donating to organizations that provide food to those in need is a wonderful way to make a positive impact on your community and the world. Here are some steps you can take to make a donation for food:If you want to  researching local food banks or organizations that provide food assistance. Contact them to learn about thei. You can also consider donating financially, organizing a food drive, volunteering, or spreading the word about the organization. Your contributions, no matter how small, can make a meaningful difference in addressing food insecurity in your community.",
+   "Price": "$90"
+ },
+ {  "id": 3,
+   "Picture": "https://i.ibb.co/J5M90X0/download.jpg",
+   "Title": "Used Clothing Drive",
+   "Category": "Clothing",
+   "Backgrounds": {
+   "Category_bg": "#79C23F60",
+   "Card_bg": "#79C23F26",
+   "Text_and_button_color": "#79C23F"
+   },
+   "Description": "Help us collect and distribute clothing to keep people warm and comfortable during cold seasons. To make a donation for clothing, begin by identifying local organizations or charities in your area that accept clothing donations.  Donating financially to organizations that provide clothing to those in need is also an option. Additionally, volunteering your time at clothing banks or shelters can be a valuable contribution. Remember that your clothing donations can have a significant impact on individuals and families facing clothing insecurity, providing them with warmth and dignity.",
+   "Price": "$100"
+ },
+
+
+
+ {  "id": 4,
+ "Picture": "https://i.ibb.co/dcvHvvT/health3.jpg",
+ "Title": "Clean Water for Children",
+ "Category": "Health",
+ "Backgrounds": {
+ "Category_bg": "#0052FF50",
+ "Card_bg": "#0052ff26",
+ "Text_and_button_color": "#0052FF"
+ },
+ "Description": "Support emergency medical teams in delivering care to disaster-stricken areas. Donating to health-related causes and organizations is a wonderful way to make a positive impact on the well-being of individuals and communities. There are many reputable organizations and initiatives focused on various aspects of health, such as medical research, healthcare access, disease prevention, and more. Here are some general steps you can follow to make a donation for health",
+ "Price": "$200"
+},
+ {  "id": 5,
+   "Picture": "https://i.ibb.co/hZtMgRG/food.jpg",
+   "Title": "Fight Hunger with Us",
+   "Category": "Food",
+   "Backgrounds": {
+   "Category_bg": "#F8714750",
+   "Card_bg": "#F8714726",
+   "Text_and_button_color": "#F87147"
+   },
+   "Description": "Contribute to providing nutritious meals to those in need, fighting hunger one meal at a time. Donating to organizations that provide food to those in need is a wonderful way to make a positive impact on your community and the world. Here are some steps you can take to make a donation for food:If you want to  researching local food banks or organizations that provide food assistance. Contact them to learn about thei. You can also consider donating financially, organizing a food drive, volunteering, or spreading the word about the organization. Your contributions, no matter how small, can make a meaningful difference in addressing food insecurity in your community.",
+   "Price": "$80"
+ },
+ {  "id": 6,
+   "Picture": "https://i.ibb.co/st1FYL7/clothig-2-Copy.jpg",
+   "Title": "Donate Apparel,Spread Warmth",
+   "Category": "Clothing",
+   "Backgrounds": {
+   "Category_bg": "#79C23F60",
+   "Card_bg": "#79C23F26",
+   "Text_and_button_color": "#79C23F"
+   },
+   "Description": "Help us collect and distribute clothing to keep people warm and comfortable during cold seasons. To make a donation for clothing, begin by identifying local organizations or charities in your area that accept clothing donations.  Donating financially to organizations that provide clothing to those in need is also an option. Additionally, volunteering your time at clothing banks or shelters can be a valuable contribution. Remember that your clothing donations can have a significant impact on individuals and families facing clothing insecurity, providing them with warmth and dignity.",
+   "Price": "$100"
+ },
+ {  "id": 7,
+   "Picture": "https://i.ibb.co/zNhVszr/Rectangle-4284.png",
+   "Title": "Donate for Wellness",
+   "Category": "Health",
+   "Backgrounds": {
+   "Category_bg": "#0052FF50",
+   "Card_bg": "#0052ff26",
+   "Text_and_button_color": "#0052FF"
+   },
+   "Description": "Support emergency medical teams in delivering care to disaster-stricken areas. Donating to health-related causes and organizations is a wonderful way to make a positive impact on the well-being of individuals and communities. There are many reputable organizations and initiatives focused on various aspects of health, such as medical research, healthcare access, disease prevention, and more. Here are some general steps you can follow to make a donation for health",
+   "Price": "$200"
+ },
+
+ {  "id": 8,
+   "Picture": "https://i.ibb.co/825Z0YX/Rectangle-4287-1.png ",
+   "Title": "Empower with Education",
+   "Category": "Education",
+   "Backgrounds": {
+   "Category_bg": "#FF444A50",
+   "Card_bg": "#FF444A26",
+   "Text_and_button_color": "#FF444A"
+   },
+   "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+   "Price": "$50"
+ },
+
+ {  "id": 9,
+   "Picture": "https://i.ibb.co/N2ftYrP/Rectangle-4287-2.png ",
+   "Title": "Educate, Elevate, Donate",
+   "Category": "Education",
+   "Backgrounds": {
+    "Category_bg": "#FF444A50",
+    "Card_bg": "#FF444A26",
+    "Text_and_button_color": "#FF444A"
+  },
+   "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+   "Price": "$50"
+ },
+
+ {  "id": 10,
+   "Picture": "https://i.ibb.co/BzYY2gd/food2.jpg",
+   "Title": "Share a Meal,Share Hope",
+   "Category": "Food",
+   "Backgrounds": {
+   "Category_bg": "#F8714750",
+   "Card_bg": "#F8714726",
+   "Text_and_button_color": "#F87147"
+   },
+   "Description": "Contribute to providing nutritious meals to those in need, fighting hunger one meal at a time. Donating to organizations that provide food to those in need is a wonderful way to make a positive impact on your community and the world. Here are some steps you can take to make a donation for food:If you want to  researching local food banks or organizations that provide food assistance. Contact them to learn about thei. You can also consider donating financially, organizing a food drive, volunteering, or spreading the word about the organization. Your contributions, no matter how small, can make a meaningful difference in addressing food insecurity in your community.",
+   "Price": "$80"
+ },
+
+ {  "id": 11,
+   "Picture": "https://i.ibb.co/6mvGYkB/Rectangle-4287.png",
+   "Title": "Dress for Success:Give Clothing",
+   "Category": "Clothing",
+   "Backgrounds": {
+   "Category_bg": "#79C23F60",
+   "Card_bg": "#79C23F26",
+   "Text_and_button_color": "#79C23F"
+   },
+   "Description": "Help us collect and distribute clothing to keep people warm and comfortable during cold seasons. To make a donation for clothing, begin by identifying local organizations or charities in your area that accept clothing donations.  Donating financially to organizations that provide clothing to those in need is also an option. Additionally, volunteering your time at clothing banks or shelters can be a valuable contribution. Remember that your clothing donations can have a significant impact on individuals and families facing clothing insecurity, providing them with warmth and dignity.",
+   "Price": "$100"
+ },
+ {  "id": 12,
+   "Picture": "https://i.ibb.co/zfpF9xd/health.jpg",
+   "Title": "Support Better Health",
+   "Category": "Health",
+   "Backgrounds": {
+   "Category_bg": "#0052FF50",
+   "Card_bg": "#0052ff26",
+   "Text_and_button_color": "#0052FF"
+   },
+   "Description": "Support emergency medical teams in delivering care to disaster-stricken areas. Donating to health-related causes and organizations is a wonderful way to make a positive impact on the well-being of individuals and communities. There are many reputable organizations and initiatives focused on various aspects of health, such as medical research, healthcare access, disease prevention, and more. Here are some general steps you can follow to make a donation for health",
+   "Price": "$200"
+ }
+]
